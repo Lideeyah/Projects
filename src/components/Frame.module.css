@@ -1,0 +1,17 @@
+.component4 {
+  position: absolute;
+  top: 40px;
+  left: 49px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 363px;
+  height: 397px;
+  overflow: hidden;
+}
+.component4Parent {
+  background-color: var(--color-white);
+  width: 584px;
+  height: 492px;
+  overflow: hidden;
+}
